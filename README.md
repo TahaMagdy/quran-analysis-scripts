@@ -1,2 +1,2 @@
 # quran-analysis-scripts
-Analysis that may help or inspire Quran Students to memorize Quran and more
+Ideas and Analysis tools that may help and inspire Quran Students to memorize Quran and more
